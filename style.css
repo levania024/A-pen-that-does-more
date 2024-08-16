@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+}
+
+.background-img {
+    background-image: url(https://images.unsplash.com/photo-1713946598180-529a7454f3fb?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D://images.unsplash.com/photo-1507208773393-40d9fc670acf?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    min-height: 40vh;
+}
+
+.second-img {
+    max-height: 25vh;
+    object-fit: cover;
+}
